@@ -5,7 +5,7 @@
 ## Setup
 
 1. GitHubの [リリース一覧](https://github.com/Y-Saki26/CSVOpener/releases) から好きなバージョンのリリースを選択し，Assetsから"Source code (zip)"をダウンロードする．
-2. Zipファイルを展開し，"csv_opener.exe" をダブルクリックして起動
+2. Zipファイルを展開し，"CSVOpener.exe" をダブルクリックして起動
     + Windows Defender によって実行がブロックされることがあります．「詳細情報」をクリックし，アプリの内容を確認して「実行」を選択してください．
 3. 開きたいCSVファイルを画面にドラッグアンドドロップ
 
