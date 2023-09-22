@@ -4,7 +4,7 @@
 
 ## Setup
 
-1. GitHubの [リリース一覧](https://github.com/Y-Saki26/CSVOpener/releases) から好きなバージョンのリリースを選択し，Assetsから"CSVOpener.zip"をダウンロードする．
+1. GitHubの [リリース一覧](https://github.com/Y-Saki26/CSVOpener/releases) から好きなバージョンのリリースを選択し，Assetsから"Source code (zip)"をダウンロードする．
 2. Zipファイルを展開し，"csv_opener.exe" をダブルクリックして起動
     + Windows Defender によって実行がブロックされることがあります．「詳細情報」をクリックし，アプリの内容を確認して「実行」を選択してください．
 3. 開きたいCSVファイルを画面にドラッグアンドドロップ
@@ -23,5 +23,5 @@ Windows 11 Pro 64ビット
 ## 注意
 
 + 複数ファイルをまとめてドラッグアンドドロップするとそれぞれ新しいウィンドウで読み込まれます．
-+ 巨大なファイルの展開には時間がかかります．
++ 大きなファイルの展開には時間がかかります．数kB程度以下のサイズを想定しています．
 + 元のCSVファイルとは別で起動するので適宜Excelファイルを保存してください．
