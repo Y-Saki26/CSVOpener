@@ -1,8 +1,8 @@
 <プロジェクト 名前="CSVOpener" ビット32="×" 管理者実行="×" ライブラリ同梱="○">
   <一覧>
-    <項目 位置="csv_opener.rdr" 開く="○" />
+    <項目 位置="csv_opener.rdr" 開始="○" 開く="○" />
   </一覧>
-  <バージョン 値="0.0.1.0">
+  <バージョン 値="0.0.2.0">
     <項目 名前="Comments" 値="https://github.com/Y-Saki26/CSVOpener" />
     <項目 名前="FileDescription" 値="Open UTF-8 CSV in Excel" />
     <項目 名前="ProductName" 値="CSVOpener" />
